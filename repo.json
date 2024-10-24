@@ -13,21 +13,29 @@
     ],
     "apps": [
         {
-            "name": "",
-            "bundleIdentifier": "",
-            "developerName": "",
-            "subtitle": "",
-            "localizedDescription": "",
-            "iconURL": "",
+            "name": "Youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Google",
+            "subtitle": "Injected with Yt Lite Basic",
+            "localizedDescription": "Youtubewith premium Features",
+            "iconURL": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
             "tintColor": "#F54F32",
-            "category": "utilities",
+            "category": "entertainment",
             "screenshots": [
-                "https://example.com/myapp_screenshot1.png",
-                "https://example.com/myapp_screenshot2.png",
-                "https://example.com/myapp_screenshot3.png"
+                "",
+                "",
+                ""
             ],
-            "versions": [],
-            "appPermissions": {}
+            "versions": [
+                {
+                    "version": "19.40.04",
+                    "buildVersion": "1940",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Youtube, Injected with Premium Features  and better Downloading",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/youtube/Youtube.19.40.04.ipa",
+                    "size": 100000
+                  }
+            ]
         }
     ],
 
