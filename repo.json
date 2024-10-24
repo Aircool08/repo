@@ -17,7 +17,7 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Google",
             "subtitle": "Injected with Yt Lite Basic",
-            "localizedDescription": "Youtubewith premium Features",
+            "localizedDescription": "Youtube with premium Features",
             "iconURL": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
             "tintColor": "#F54F32",
             "category": "entertainment",
@@ -33,6 +33,31 @@
                     "date": "2008-06-28",
                     "localizedDescription": "Youtube, Injected with Premium Features  and better Downloading",
                     "downloadURL": "https://github.com/Aircool08/repo/releases/download/youtube/Youtube.19.40.04.ipa",
+                    "size": 100000
+                  }
+            ]
+        },
+        {
+            "name": "Youtube Music Ultimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Google",
+            "subtitle": "Injected with YT Music Ultimate",
+            "localizedDescription": "Youtube Music without ads, downloadable mp3 files, and a better UI",
+            "iconURL": "",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "7.21.1",
+                    "buildVersion": "7211",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Youtube Music, Injected with Premium Features  and better Downloading",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/youtube-music/Youtube.Music.Ultimate.ipa",
                     "size": 100000
                   }
             ]
