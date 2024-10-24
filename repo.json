@@ -67,7 +67,7 @@
             "bundleIdentifier": "com.avangelista.CarTube",
             "developerName": "Avangelista",
             "subtitle": "Youtube in your Car",
-            "localizedDescription": "Adds support for Youtube inside Carplay + adblocker",
+            "localizedDescription": "Ads support for Youtube inside Carplay + adblocker",
             "iconURL": "https://yt3.googleusercontent.com/BlszAHLgSwi_bI_tG9LqX8Z16sUryOzo8x9lHDS2kKPsnsK1yWPWMzWdAR5S3RimLiAkL33u6g=s900-c-k-c0x00ffffff-no-rj",
             "tintColor": "#F54F32",
             "category": "entertainment",
