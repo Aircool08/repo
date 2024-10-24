@@ -86,6 +86,31 @@
                     "size": 100000
                   }
             ]
+        },
+        {
+            "name": "HDO Player",
+            "bundleIdentifier": "hd.oplayer.netflixx",
+            "developerName": "hdo",
+            "subtitle": "Streaming for Service",
+            "localizedDescription": "Streaming without paying is against copyright laws and should not be done. Only use this app to mark down what do you want to watch and then watch it on real services ike Netflix or Disney+",
+            "iconURL": "https://image.roku.com/developer_channels/prod/6ba761c4a2839873d32fd0706f676463b5c78951c274a1f331a4305e3ed5c58b.png",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "buildVersion": "105",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Movie Checklist",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/hdo/Netflix.1.0.5.ipa",
+                    "size": 100000
+                  }
+            ]
         }
     ],
 
