@@ -61,6 +61,31 @@
                     "size": 100000
                   }
             ]
+        },
+        {
+            "name": "Cartube",
+            "bundleIdentifier": "com.avangelista.CarTube",
+            "developerName": "Avangelista",
+            "subtitle": "Youtube in your Car",
+            "localizedDescription": "Adds support for Youtube inside Carplay + adblocker",
+            "iconURL": "https://yt3.googleusercontent.com/BlszAHLgSwi_bI_tG9LqX8Z16sUryOzo8x9lHDS2kKPsnsK1yWPWMzWdAR5S3RimLiAkL33u6g=s900-c-k-c0x00ffffff-no-rj",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "1.3.7",
+                    "buildVersion": "137",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Youtube in your Car",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/cartube/Cartube.1.3.7.ipa",
+                    "size": 100000
+                  }
+            ]
         }
     ],
 
