@@ -1,0 +1,36 @@
+{
+    "name": "Aircool Repo",
+    "subtitle": "My own App Source",
+    "description": "They are not my apps. Source is in description",
+    "iconURL": "https://avatars.githubusercontent.com/u/112079646?v=4",
+    "headerURL": "https://styles.redditmedia.com/t5_9v0ue5/styles/profileBanner_o72t8u4rbiyb1.jpg",
+    "website": "https://aircool08.github.io",
+    "tintColor": "#F54F32",
+    "featuredApps": [
+      "",
+      "",
+      ""
+    ],
+    "apps": [
+        {
+            "name": "",
+            "bundleIdentifier": "",
+            "developerName": "",
+            "subtitle": "",
+            "localizedDescription": "",
+            "iconURL": "",
+            "tintColor": "#F54F32",
+            "category": "utilities",
+            "screenshots": [
+                "https://example.com/myapp_screenshot1.png",
+                "https://example.com/myapp_screenshot2.png",
+                "https://example.com/myapp_screenshot3.png"
+            ],
+            "versions": [],
+            "appPermissions": {}
+        }
+    ],
+
+
+    "news": []
+  }
