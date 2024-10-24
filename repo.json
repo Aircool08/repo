@@ -90,5 +90,17 @@
     ],
 
 
-    "news": []
+    "news": [
+        {
+            "title": "Hacked Youtube Apps are now on Aircool Repo",
+            "identifier": "new_apps_youtube",
+            "caption": "Introducing 3 new Apps to Aircool Repo, Youtube ; Youtube Music and Cartube",
+            "date": "2024-10-24",
+            "tintColor": "#F54F32",
+            "imageURL": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2020/06/youtube-music-premium.jpg",
+            "notify": true,
+            "url": "https://dsc.gg/aircool08",
+            "appID": "com.google.ios"
+          }
+    ]
   }
