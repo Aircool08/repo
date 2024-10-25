@@ -111,6 +111,31 @@
                     "size": 100000
                   }
             ]
+        },
+        {
+            "name": "Pojav Launcher",
+            "bundleIdentifier": "net.kdt.pojavlauncher",
+            "developerName": "Pojav Launcher Team",
+            "subtitle": "Minercaft Java for iOS",
+            "localizedDescription": "This App bring Minecraft Java Edition to iOS. It works for all version + Fabric, Forge, Quilt, Neoforge and Shader support (<-If your phone can handle that.) JIT needs to be enabled",
+            "iconURL": "https://play-lh.googleusercontent.com/kBKcfqoudjlMRMUogBXDp43FrgY1izzXmdP9p2smJdqF_MJrWUR7VgEXA8OPGTJQi8s",
+            "tintColor": "#F54F32",
+            "category": "games",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "buildVersion": "22",
+                    "date": "2008-06-28",
+                    "localizedDescription": "2.2 Deepslate",
+                    "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+                    "size": 100000
+                  }
+            ]
         }
     ],
 
