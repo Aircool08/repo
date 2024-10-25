@@ -1,0 +1,129 @@
+{
+    "apps": [
+        {
+            "name": "Youtube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "Google",
+            "subtitle": "Injected with Yt Lite Basic",
+            "localizedDescription": "Youtube with premium Features",
+            "iconURL": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "19.40.04",
+                    "buildVersion": "1940",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Youtube, Injected with Premium Features  and better Downloading",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/youtube/Youtube.19.40.04.ipa",
+                    "size": 100000
+                  }
+            ]
+        },
+        {
+            "name": "Youtube Music Ultimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Google",
+            "subtitle": "Injected with YT Music Ultimate",
+            "localizedDescription": "Youtube Music without ads, downloadable mp3 files, and a better UI",
+            "iconURL": "https://cdn.prod.website-files.com/6065d2bd09aa3b22e17a2f98/62c7e38e4e19a6ddbb1854b0_unnamed_-_2022-07-08T095559_1-removebg-preview%20(1).png",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "7.21.1",
+                    "buildVersion": "7211",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Youtube Music, Injected with Premium Features  and better Downloading",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/youtube-music/Youtube.Music.Ultimate.ipa",
+                    "size": 100000
+                  }
+            ]
+        },
+        {
+            "name": "Cartube",
+            "bundleIdentifier": "com.avangelista.CarTube",
+            "developerName": "Avangelista",
+            "subtitle": "Youtube in your Car",
+            "localizedDescription": "Ads support for Youtube inside Carplay + adblocker",
+            "iconURL": "https://yt3.googleusercontent.com/BlszAHLgSwi_bI_tG9LqX8Z16sUryOzo8x9lHDS2kKPsnsK1yWPWMzWdAR5S3RimLiAkL33u6g=s900-c-k-c0x00ffffff-no-rj",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "1.3.7",
+                    "buildVersion": "137",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Youtube in your Car",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/cartube/Cartube.1.3.7.ipa",
+                    "size": 100000
+                  }
+            ]
+        },
+        {
+            "name": "HDO Player",
+            "bundleIdentifier": "hd.oplayer.netflixx",
+            "developerName": "hdo",
+            "subtitle": "Streaming for Service",
+            "localizedDescription": "Streaming without paying is against copyright laws and should not be done. Only use this app to mark down what do you want to watch and then watch it on real services ike Netflix or Disney+",
+            "iconURL": "https://image.roku.com/developer_channels/prod/6ba761c4a2839873d32fd0706f676463b5c78951c274a1f331a4305e3ed5c58b.png",
+            "tintColor": "#F54F32",
+            "category": "entertainment",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "1.0.5",
+                    "buildVersion": "105",
+                    "date": "2008-06-28",
+                    "localizedDescription": "Movie Checklist",
+                    "downloadURL": "https://github.com/Aircool08/repo/releases/download/hdo/Netflix.1.0.5.ipa",
+                    "size": 100000
+                  }
+            ]
+        },
+        {
+            "name": "Pojav Launcher",
+            "bundleIdentifier": "net.kdt.pojavlauncher",
+            "developerName": "Pojav Launcher Team",
+            "subtitle": "Minercaft Java for iOS",
+            "localizedDescription": "This App bring Minecraft Java Edition to iOS. It works for all version + Fabric, Forge, Quilt, Neoforge and Shader support (<-If your phone can handle that.) JIT needs to be enabled",
+            "iconURL": "https://play-lh.googleusercontent.com/kBKcfqoudjlMRMUogBXDp43FrgY1izzXmdP9p2smJdqF_MJrWUR7VgEXA8OPGTJQi8s",
+            "tintColor": "#F54F32",
+            "category": "games",
+            "screenshots": [
+                "",
+                "",
+                ""
+            ],
+            "versions": [
+                {
+                    "version": "2.2",
+                    "buildVersion": "22",
+                    "date": "2008-06-28",
+                    "localizedDescription": "2.2 Deepslate",
+                    "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+                    "size": 100000
+                  }
+            ]
+        }
+    ]
+}
