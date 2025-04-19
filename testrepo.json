@@ -2,8 +2,8 @@
     "name": "Aircoolrepo",
     "identifier": "com.aircool.repo.ipa",
     "subtitle": "The Offical iPA Library by Aircool08",
-    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
-    "website": "https:\/\/ipa.cypwn.xyz",
+    "iconURL": "https://raw.githubusercontent.com/Aircool08/repo/refs/heads/main/assets/favicon.ico",
+    "website": "https://aircool08.github.io/repo/",
     "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
     "tintColor": "FFC300",
     "featuredApps": [
@@ -12,18 +12,18 @@
 
     "apps": [
         {
-            "name": "Gopeed_1.7.0",
-            "bundleIdentifier": "com.gopeed.gopeed",
-            "developerName": "Gopeed_1.7.0 x CyPwn",
-            "version": "1.7.0",
-            "versionDate": "2025-04-18",
+            "name": "Aircool08's App Store",
+            "bundleIdentifier": "com-aircool.appstore",
+            "developerName": "Aircool08",
+            "version": "0.0",
+            "versionDate": "2025-04-19",
             "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.7.0.ipa",
-            "localizedDescription": "A modern download manager",
-            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Gopeed_1.7.0.png",
-            "tintColor": "FFC300",
-            "size": 38797312,
+            "localizedDescription": "Apple ID / Cert Sideloader with all my repos (I don't recommend using it, since its here because i wanna build my own App. Just use Esign)",
+            "iconURL": "https://raw.githubusercontent.com/Aircool08/repo/refs/heads/main/assets/favicon.ico",
+            "tintColor": "ff0000",
+            "size": 100,
             "screenshotURLs": [
-                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Gopeed_1.7.0\/Gopeed_1.7.0-0.png"
+                ""
             ]
         },
         {
