@@ -1,0 +1,59 @@
+{
+    "name": "Aircoolrepo",
+    "identifier": "com.aircool.repo.ipa",
+    "subtitle": "The Offical iPA Library by Aircool08",
+    "iconURL": "https:\/\/repo.cypwn.xyz\/assets\/images\/cypwn_small.png",
+    "website": "https:\/\/ipa.cypwn.xyz",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+
+    "apps": [
+        {
+            "name": "Gopeed_1.7.0",
+            "bundleIdentifier": "com.gopeed.gopeed",
+            "developerName": "Gopeed_1.7.0 x CyPwn",
+            "version": "1.7.0",
+            "versionDate": "2025-04-18",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.7.0.ipa",
+            "localizedDescription": "A modern download manager",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Gopeed_1.7.0.png",
+            "tintColor": "FFC300",
+            "size": 38797312,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Gopeed_1.7.0\/Gopeed_1.7.0-0.png"
+            ]
+        },
+        {
+            "name": "YouTube_20.15.1_YTPlus_5.2b1",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube_20.15.1_YTPlus_5.2b1 x CyPwn",
+            "version": "20.15.1",
+            "versionDate": "2025-04-15",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTube_20.15.1_YTPlus_5.2b1.ipa",
+            "localizedDescription": "YT 20.15.1 + YTPlus 5.2b1 + more",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTube_20.15.1_YTPlus_5.2b1.png",
+            "tintColor": "FFC300",
+            "size": 121634816,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YouTube_20.15.1_YTPlus_5.2b1\/YouTube_20.15.1_YTPlus_5.2b1-0.png"
+            ]
+        }
+    ],
+
+    
+    "news": [
+        {
+            "title": "AircoolRepo is now avaylable",
+            "identifier": "com.aircool.repo",
+            "caption": "Here you can find everything you need",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Deezer++iOS15.png",
+            "date": "2025-04-19",
+            "url": "https:\/\/aircool08.github.io/repo/",
+            "notify": true
+        }
+    ]
+}
