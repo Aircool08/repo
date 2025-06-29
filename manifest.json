@@ -1,18 +1,59 @@
 {
-  "name": "Aircool08 Repo",
-  "identifier": "com.aircool08.repo",
-  "apps": [
-    {
-      "name": "My Cool App",
-      "bundleIdentifier": "com.aircool08.coolapp",
-      "developerName": "Aircool08",
-      "version": "1.0",
-      "iconURL": "https://aircool08.github.io/repo/appicon.png",
-      "tintColor": "007AFF",
-      "size": 104857600,
-      "date": "2025-06-01T00:00:00+0000",
-      "localizedDescription": "A cool app for cool people.",
-      "downloadURL": "https://aircool08.github.io/repo/mycoolapp.ipa"
-    }
-  ]
+    "name": "Aircoolrepo",
+    "identifier": "com.aircool.repo.ipa",
+    "subtitle": "The Offical iPA Library by Aircool08",
+    "iconURL": "https://raw.githubusercontent.com/Aircool08/repo/refs/heads/main/assets/favicon.ico",
+    "website": "https://aircool08.github.io/repo/",
+    "sourceURL": "https:\/\/ipa.cypwn.xyz\/cypwn.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "Ed0ardo.CyPwnStore"
+    ],
+
+    "apps": [
+        {
+            "name": "Aircool08's App Store",
+            "bundleIdentifier": "com-aircool.appstore",
+            "developerName": "Aircool08",
+            "version": "0.0",
+            "versionDate": "2025-04-19",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.7.0.ipa",
+            "localizedDescription": "Apple ID / Cert Sideloader with all my repos (I don't recommend using it, since its here because i wanna build my own App. Just use Esign)",
+            "iconURL": "https://raw.githubusercontent.com/Aircool08/repo/refs/heads/main/assets/favicon.ico",
+            "tintColor": "ff0000",
+            "size": 100,
+            "screenshotURLs": [
+                ""
+            ]
+        },
+        {
+            "name": "YouTube_20.15.1_YTPlus_5.2b1",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "YouTube_20.15.1_YTPlus_5.2b1 x CyPwn",
+            "version": "20.15.1",
+            "versionDate": "2025-04-15",
+            "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/YouTube_20.15.1_YTPlus_5.2b1.ipa",
+            "localizedDescription": "YT 20.15.1 + YTPlus 5.2b1 + more",
+            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/YouTube_20.15.1_YTPlus_5.2b1.png",
+            "tintColor": "FFC300",
+            "size": 121634816,
+            "screenshotURLs": [
+                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/YouTube_20.15.1_YTPlus_5.2b1\/YouTube_20.15.1_YTPlus_5.2b1-0.png"
+            ]
+        }
+    ],
+
+    
+    "news": [
+        {
+            "title": "AircoolRepo is now avaylable",
+            "identifier": "com.aircool.repo",
+            "caption": "Here you can find everything you need",
+            "tintColor": "FFC300",
+            "imageURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Deezer++iOS15.png",
+            "date": "2025-04-19",
+            "url": "https:\/\/aircool08.github.io/repo/",
+            "notify": true
+        }
+    ]
 }
