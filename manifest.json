@@ -1,0 +1,18 @@
+{
+  "name": "Aircool08 Repo",
+  "identifier": "com.aircool08.repo",
+  "apps": [
+    {
+      "name": "My Cool App",
+      "bundleIdentifier": "com.aircool08.coolapp",
+      "developerName": "Aircool08",
+      "version": "1.0",
+      "iconURL": "https://aircool08.github.io/repo/appicon.png",
+      "tintColor": "007AFF",
+      "size": 104857600,
+      "date": "2025-06-01T00:00:00+0000",
+      "localizedDescription": "A cool app for cool people.",
+      "downloadURL": "https://aircool08.github.io/repo/mycoolapp.ipa"
+    }
+  ]
+}
