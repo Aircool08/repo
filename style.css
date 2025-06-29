@@ -46,3 +46,25 @@
             background: linear-gradient(90deg, #dd2476 0%, #ff512f 100%);
             transform: translateY(-2px) scale(1.04);
         }
+
+        /* Responsive layout improvements */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+    img, video {
+        max-width: 100%;
+        height: auto;
+    }
+    .container, .content, .main, .wrapper {
+        width: 100% !important;
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+    nav, header, footer {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
